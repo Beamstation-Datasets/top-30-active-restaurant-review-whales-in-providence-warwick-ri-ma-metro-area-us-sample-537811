@@ -1,0 +1,12 @@
+{
+  "export_job_id": "5a40839f-2a2d-459d-915e-e999b240f82b",
+  "id_short": 537811,
+  "published_at": "2026-04-12T19:57:42Z",
+  "repo_name": "top-30-active-restaurant-review-whales-in-providence-warwick-ri-ma-metro-area-us-sample-537811",
+  "sample_asset_name": "beamstation_537811_restaurants-us-providencewarwickrima_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/537811/beamstation_537811_restaurants-us-providencewarwickrima_SAMPLE_DIST.csv",
+  "sample_records": 10,
+  "sample_sha256": "6b857be843936e5ce6b03fdfd39f5e34c1d2f2cb84760f22bae3e7e0a2089726",
+  "sample_size_bytes": 56105,
+  "total_records": 299
+}
