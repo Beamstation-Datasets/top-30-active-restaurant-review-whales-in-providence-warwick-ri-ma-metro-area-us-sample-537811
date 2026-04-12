@@ -1,0 +1,22 @@
+{
+  "base_price": 1295,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a market scope of 5km.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
+  "config_name": "Top 30% Active Restaurant Review Whales in Providence-Warwick, RI-MA Metro Area, US",
+  "export_job_id": "5a40839f-2a2d-459d-915e-e999b240f82b",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 537811,
+  "location_name": "Providence-Warwick, RI-MA",
+  "location_type": "metro",
+  "repo_name": "top-30-active-restaurant-review-whales-in-providence-warwick-ri-ma-metro-area-us-sample-537811",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/537811/beamstation_537811_restaurants-us-providencewarwickrima_SAMPLE_DIST.csv",
+  "sample_pct": 3.34,
+  "sample_records": 10,
+  "sample_sha256": "6b857be843936e5ce6b03fdfd39f5e34c1d2f2cb84760f22bae3e7e0a2089726",
+  "sample_size_bytes": 56105,
+  "total_records": 299,
+  "updated_at": "2026-04-01T00:50:40.087537+00:00"
+}
