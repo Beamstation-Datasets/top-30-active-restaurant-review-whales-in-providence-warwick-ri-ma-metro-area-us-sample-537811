@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in Providence-Warwick, RI-MA Metro Area, US
 
-> Free BeamStation sample export with 20 rows and masked direct-contact fields.
+> Free BeamStation sample export with 15 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `537811` |
 | Location | Providence-Warwick, RI-MA |
 | Category | Restaurants |
-| Full dataset size | 203 records |
-| Free sample size | 20 records (9.85%) |
-| Last export | 2026-04-15T02:44:53.116533+00:00 |
+| Full dataset size | 153 records |
+| Free sample size | 15 records (9.8%) |
+| Last export | 2026-04-22T07:48:06.372300+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-providence-warwick-ri-ma-metro-area-us-sample-537811/releases/download/sample-latest/beamstation_537811_restaurants-us-providencewarwickrima_SAMPLE_DIST.csv) |
 
 ## What is in this sample
